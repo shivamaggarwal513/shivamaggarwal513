@@ -24,8 +24,6 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: shivamaggarwal513@gmail.com
 
-<br/>
-
 <h2 align="left">Connect with me:</h2>
 <p align="left">
     <a href="https://www.linkedin.com/in/shivamaggarwal513" target="blank">
@@ -48,8 +46,6 @@ Here are some ideas to get you started:
     <a href="https://www.codechef.com/users/shivam_513" target="blank">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shivam_513" height="30" width="40" /></a>
 </p>
-
-<br/>
 
 <h2 align="left">Technical Skills:</h2>
 
@@ -151,13 +147,12 @@ Tools & Platforms
     </a> 
 </p>
 
-<br/>
-
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamaggarwal513&show_icons=true&theme=onedark&locale=en&layout=compact" alt="shivamaggarwal513" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivamaggarwal513&show_icons=true&theme=gruvbox&locale=en" alt="shivamaggarwal513" /></p>
+<p>&nbsp;
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=shivamaggarwal513&show_icons=true&theme=gruvbox&locale=en" alt="shivamaggarwal513" /></p>
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamaggarwal513&theme=dark" alt="shivamaggarwal513" />
