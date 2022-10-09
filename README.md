@@ -147,13 +147,13 @@ Tools & Platforms
     </a> 
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamaggarwal513&show_icons=true&theme=onedark&locale=en&layout=compact" alt="shivamaggarwal513" />
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamaggarwal513&show_icons=true&theme=onedark&locale=en&layout=compact" alt="shivamaggarwal513" />
 </p>
 
 <p>&nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=shivamaggarwal513&show_icons=true&theme=gruvbox&locale=en" alt="shivamaggarwal513" /></p>
 
-<p>
+<p>&nbsp;
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamaggarwal513&theme=dark" alt="shivamaggarwal513" />
 </p>
