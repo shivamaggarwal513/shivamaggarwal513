@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 <h2 align="left">Technical Skills:</h2>
 
-Languages & Frameworks
+<h4 align="left">Languages & Frameworks</h4>
 <p align="left">
     <a href="https://www.cprogramming.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -95,7 +95,7 @@ Languages & Frameworks
     </a>
 </p>
 
-Tools & Platforms
+<h4 align="left">Tools & Platforms</h4>
 <p align="left">
     <a href="https://visualstudio.microsoft.com" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visual_studio" width="40" height="40"/> 
