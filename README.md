@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Shivam Aggarwal</h1>
 <h3 align="center">A Coding Enthusiast</h3>
 
-- 👨 Pronouns: He/Him
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=shivamaggarwal513&label=Profile%20views&color=045e03&style=flat-square" alt="shivamaggarwal513" /> 
+</p>
 
 - 🔭 I'm currently working on my problem solving skills
 
@@ -24,7 +26,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: shivamaggarwal513@gmail.com
 
-<h2 align="left">Connect with me:</h2>
+<h2 align="left">Connect with me</h2>
 <p align="left">
     <a href="https://www.linkedin.com/in/shivamaggarwal513" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="shivamaggarwal513" height="30" width="40" />
@@ -47,9 +49,8 @@ Here are some ideas to get you started:
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shivam_513" height="30" width="40" /></a>
 </p>
 
-<h2 align="left">Technical Skills:</h2>
+<h2 align="left">Technical Skills</h2>
 
-<h4 align="left">Languages & Frameworks</h4>
 <p align="left">
     <a href="https://www.cprogramming.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -95,7 +96,6 @@ Here are some ideas to get you started:
     </a>
 </p>
 
-<h4 align="left">Tools & Platforms</h4>
 <p align="left">
     <a href="https://visualstudio.microsoft.com" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visual_studio" width="40" height="40"/> 
