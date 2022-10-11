@@ -16,15 +16,15 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Shivam Aggarwal</h1>
 <h3 align="center">A Coding Enthusiast</h3>
 
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=shivamaggarwal513&label=Profile%20views&color=045e03&style=flat-square" alt="shivamaggarwal513" /> 
-</p>
-
 - 🔭 I'm currently working on my problem solving skills
 
 - 🌱 I'm currently learning Data Structures & Algorithms, Machine Learning
 
 - 📫 How to reach me: shivamaggarwal513@gmail.com
+
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=shivamaggarwal513&label=Profile%20views&color=045e03&style=flat-square" alt="shivamaggarwal513" /> 
+</p>
 
 <h2 align="left">Connect with me</h2>
 <p align="left">
